@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Catalogue-App/static/css/main.e472027c.chunk.css",
+    "main.js": "/Catalogue-App/static/js/main.32ddb297.chunk.js",
+    "main.js.map": "/Catalogue-App/static/js/main.32ddb297.chunk.js.map",
+    "runtime-main.js": "/Catalogue-App/static/js/runtime-main.69b175ed.js",
+    "runtime-main.js.map": "/Catalogue-App/static/js/runtime-main.69b175ed.js.map",
+    "static/js/2.d5c4ca0e.chunk.js": "/Catalogue-App/static/js/2.d5c4ca0e.chunk.js",
+    "static/js/2.d5c4ca0e.chunk.js.map": "/Catalogue-App/static/js/2.d5c4ca0e.chunk.js.map",
+    "index.html": "/Catalogue-App/index.html",
+    "precache-manifest.e57a1c9e87ec99b860ac18309882304a.js": "/Catalogue-App/precache-manifest.e57a1c9e87ec99b860ac18309882304a.js",
+    "service-worker.js": "/Catalogue-App/service-worker.js",
+    "static/css/main.e472027c.chunk.css.map": "/Catalogue-App/static/css/main.e472027c.chunk.css.map",
+    "static/js/2.d5c4ca0e.chunk.js.LICENSE.txt": "/Catalogue-App/static/js/2.d5c4ca0e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.69b175ed.js",
+    "static/js/2.d5c4ca0e.chunk.js",
+    "static/css/main.e472027c.chunk.css",
+    "static/js/main.32ddb297.chunk.js"
+  ]
+}
